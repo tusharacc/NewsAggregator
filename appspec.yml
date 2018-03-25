@@ -24,6 +24,6 @@ os: linux
 #   may cause associated deployments to fail.
 files:
   - source: ./NewsAggregator
-    destination: ~/NewsAggregator
+    destination: /home/ubuntu/NewsAggregator
 
 
